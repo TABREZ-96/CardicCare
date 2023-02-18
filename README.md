@@ -12,7 +12,7 @@ git clone https://github.com/TABREZ-96/CardicCare
 Once the project is cloned, install the necessary dependencies using the following command:  
 
 ```Pip install
-
+```
 ## Library
 
 Cardicare uses several Python libraries for data analysis, visualization, and machine learning. The following are the main libraries used in the project:
@@ -29,6 +29,7 @@ from sklearn import svm
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.tree import DecisionTreeClassifier
 import xgboost as xgb
+```
 
 ## Comparison Model
 Cardicare implements several machine learning algorithms to detect heart disease. The following are the models used in the project for comparison:
@@ -42,6 +43,7 @@ Cardicare implements several machine learning algorithms to detect heart disease
 To use Cardicare, run the 'Heart.py' file using the following command:
 
 ```python cardicare.py
+```
 
 The file will train a machine learning model on the provided dataset and display the results in a graphical user interface. The user can interact with the interface to analyze the results and view the accuracy of the model.
 
