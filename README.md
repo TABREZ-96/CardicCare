@@ -32,11 +32,12 @@ import xgboost as xgb
 
 ## Comparison Model
 Cardicare implements several machine learning algorithms to detect heart disease. The following are the models used in the project for comparison:
-
+```
 1.SVM: A support vector machine algorithm, used for binary classification tasks.
 2.KNN: A k-nearest neighbors algorithm, used for clustering and classification tasks.
 3.Decision Tree: A decision tree algorithm, used for classification tasks.
 4.XGBoost: An optimized distributed gradient boosting algorithm, used for ensemble modeling.
+```
 
 ## Usage
 To use Cardicare, run the 'Heart.py' file using the following command:
